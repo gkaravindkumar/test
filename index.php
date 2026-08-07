@@ -10,7 +10,6 @@
 ?>
 <!-- START PAGE CONTENT   -->
 <h1> Welcome to DevOps Cloud Camp  Welcome  </h1>
-<h1> Welcome to CI-CD  </h1>
 
 
 <p>
